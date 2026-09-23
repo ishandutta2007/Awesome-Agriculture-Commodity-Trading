@@ -1,199 +1,134 @@
-# Awesome-Agriculture-Commodity-Trading
+# Awesome Agriculture Commodity Trading 🌾 Analytics & Risk Management Ecosystem 📈
 
-## Top Commodity Trading (Agriculture) Ecosystem
+![Awesome Agriculture Commodity Trading Banner](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agriculture-Commodity-Trading"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agriculture-Commodity-Trading?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agriculture-Commodity-Trading/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Agriculture-Commodity-Trading?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Top Agricultural Commodity Trading Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated List of SaaS Platforms & Open-Source GitHub Projects** 🚀  
+*Focused on Agricultural Commodity Markets, Grain Trading, Price Intelligence, Cash Bids, Market Data, Futures & Ag Trade Execution* 📊
 
-*Focused on Agricultural Commodity Markets, Grain Trading, Price Intelligence, Cash Bids, Market Data & Ag Trade Execution*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Agricultural Commodity Trading**. These systems provide market data, price intelligence, trading tools, cash grain bids, analytics, and workflow support for traders, elevators, processors, and agribusinesses dealing in grains, oilseeds, and related agricultural commodities.
-
-
-
-**Examples** include AgFlow, Vesper, GeoGrain, StoneX Platform, CQG, Barchart cmdtyView, DTN ProphetX, GrainBridge, AgriDigital, and ClearAg (the category leaders and adjacent ag market platforms).
-
-
-
-**Open-source emphasis**: Professional agricultural commodity trading and market-intelligence platforms are almost exclusively commercial. Open-source activity is limited to local food networks, experimental commodity management tools, general trading platforms, and risk-management prototypes. This section lists every significant relevant project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[DTN ProphetX](https://www.dtn.com/agriculture/agribusiness/prophetx/)**  
-
-  Leading commodities intelligence and trading platform for agribusiness—real-time market data, cash grain bids, weather, analytics, and decision-support tools used by grain traders and retailers.
-
-
-
-- **[AgFlow, Vesper](https://www.agflow.com/)**  
-
-  Agricultural commodity intelligence and trade-flow platforms providing market visibility, pricing insights, and analytics for buyers, sellers, and traders.
-
-
-
-- **[CQG, Barchart cmdtyView, StoneX Platform](https://www.cqg.com/)**  
-
-  Professional trading and market-data platforms widely used for futures, options, and agricultural commodity charting and execution.
-
-
-
-- **[GeoGrain, GrainBridge, AgriDigital](https://www.geograin.com/)**  
-
-  Platforms focused on grain marketing, digital trade, supply-chain visibility, and transaction management for agricultural commodities.
-
-
-
-- **[ClearAg & related ag intelligence](https://www.clearag.com/)**  
-
-  Agricultural data and decision-support solutions that complement trading and risk-management workflows.
-
-
-
-- **[Other commercial ag commodity trading & market platforms](https://www.dtn.com/)**  
-
-  Additional tools for cash markets, futures, trade execution, and agribusiness market intelligence.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork)**  
-
-  Open-source online marketplace connecting local producers, food hubs, and consumers. Not a commodity futures platform, but a mature open system for trading and distributing agricultural produce in local and regional food systems (AGPL).
-
-
-
-- **[SFRM – Spot and Futures Risk Management](https://github.com/cn-vhql/SFRM)**  
-
-  Lightweight open system for managing spot–futures hedge and arbitrage projects in bulk commodities—project tracking, contract management, P&L, and risk metrics for small teams.
-
-
-
-- **[Agricultural commodity management prototypes](https://github.com/search?q=agricultural+commodity+OR+grain+trading+OR+commodity+management)**  
-
-  Community and academic projects for price monitoring, inventory, and simple negotiation/trading workflows around agricultural commodities.
-
-
-
-- **[Marketcetera](https://github.com/Marketcetera/marketcetera)**  
-
-  Long-standing open-source algorithmic trading platform. General-purpose rather than ag-specific, but usable as a foundation for custom trading strategies and market connectivity.
-
-
-
-- **[Market data & charting open libraries](https://github.com/search?q=market+data+OR+futures+charting+open+source)**  
-
-  Open tools for charting, technical analysis, and market-data handling that can be adapted to agricultural futures and cash series.
-
-
-
-- **[Local food & farm marketplace open platforms](https://github.com/search?q=farmers+market+OR+local+food+marketplace+open+source)**  
-
-  Additional open projects focused on direct and regional agricultural trade rather than global commodity markets.
-
-
-
-- **[Risk & position-keeping open components](https://github.com/search?q=commodity+risk+OR+position+management+open+source)**  
-
-  Libraries and simple applications for position tracking and basic risk metrics in commodity trading contexts.
-
-
-
-- **[Blockchain / digital grain trade experiments](https://github.com/search?q=grain+blockchain+OR+agricultural+commodity+blockchain)**  
-
-  Experimental projects exploring digital documentation and trade of agricultural commodities.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Local / regional food trade**: Open Food Network as the most mature open platform for producer-to-consumer and hub-based agricultural trade.
-
-- **Hedge & risk prototypes**: SFRM-style tools for small-team spot–futures management.
-
-- **General trading engines**: Marketcetera and similar open platforms as building blocks for custom strategies.
-
-- **Composable stacks**: Market data feeds + charting libraries + position tracker + simple order workflow for limited internal use.
-
-- Full professional ag commodity trading terminals, cash-bid networks, and proprietary market intelligence remain commercial.
-
-
-
-**Frameworks for building custom systems**:  
-
-There is no mature open-source equivalent to DTN ProphetX, CQG, AgFlow, or similar professional agricultural commodity trading and intelligence platforms.  
-
-**Open Food Network** serves local and regional food trade well. **SFRM** and general open trading platforms offer limited building blocks for risk and strategy work.  
-
-Commercial platforms dominate because of real-time proprietary data, cash grain networks, exchange connectivity, weather integration, and the reliability required by active traders and agribusinesses.  
-
-Most commercial trading desks and elevators rely on commercial market platforms; open-source is better suited to local food systems, research, education, or highly customized internal tools.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Commodity trading involves financial risk. Market data, execution tools, and risk systems must be accurate and reliable. Incorrect data or system failures can lead to significant losses.
-
-- Open-source tools offer transparency but generally lack the real-time data feeds, exchange connectivity, and operational support of commercial ag trading platforms. Do not use unvalidated open-source systems for live trading without thorough testing and risk controls.
-
-
+**Last updated: September 2026** 📅
 
 ---
 
+This repository tracks top-tier **SaaS platforms** and **open-source projects** for **Agricultural Commodity Trading**. These systems provide real-time market data, price intelligence, trading execution, cash grain bids, supply chain visibility, risk management, and quantitative analytics for traders, elevators, processors, and agribusinesses worldwide. 🚜🌾
 
+---
 
-**Made for grain traders, agribusiness risk managers, elevator operators, and agricultural market analysts.**  
+## 📑 Table of Contents
+- [🏢 Market Sector Overview](#-market-sector-overview)
+- [💻 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
-Let's expand open tools for local and experimental agricultural trade while recognizing the data depth, connectivity, and reliability that leading commercial agricultural commodity trading platforms deliver.
+---
+
+## 🏢 Market Sector Overview
+
+> [!NOTE]  
+> **Market Size & Structure**: The global Commodity Trading and Risk Management (CTRM) software market size for agricultural commodities is estimated at **$1.8 Billion to $2.5 Billion USD** (with the broader ag-tech market exceeding $22 Billion). The sector is **moderately fragmented**: global market data and futures brokerage execution are concentrated among legacy financial giants (e.g., StoneX, DTN, Barchart), whereas grain procurement, localized cash bid distribution, and digital trade workflows remain fragmented across specialized regional tech vendors and ag-marketplaces.
+
+---
+
+## 💻 SaaS/Hosted Platforms
+
+The table below lists leading commercial SaaS and enterprise platforms, sorted by estimated company annual revenue/valuation (descending). 📊
+
+| Company / Product 🏢 | Estimated Scale / Revenue / Valuation 💰 | Specific Pricing 💵 | Free Tier / Trial Limit ⏳ | Key Features & Focus 🎯 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[StoneX Platform](https://www.stonex.com/)** | **~$132.38 Billion** Annual Operating Revenue (Public: NASDAQ: SNEX) | Custom institutional brokerage rates & clearing fees | **No free trial** (Institutional demo on request) | Global commodities execution, risk management, clearing, and cash bid intelligence. |
+| **[DTN ProphetX](https://www.dtn.com/agriculture/agribusiness/prophetx/)** | **~$284.8 Million** Annual Revenue (Owned by TBG AG) | Quotes start ~$150 – $300/mo depending on data feeds & terminal seats | **14-Day Free Demo Trial** upon sales request | Enterprise market intelligence, real-time cash grain bids, weather & decision support. |
+| **[Barchart cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)** | **~$50 Million – $100 Million** Est. Revenue | Premier: $29.95/mo; cmdtyView Lite/Pro: $129.00 – $499.00/mo | **30-Day Free Trial** for Barchart Premier / Partial-month trial for cmdtyView | Leading grain pricing, physical cash bids, charting, and futures execution workspace. |
+| **[CQG](https://www.cqg.com/)** | **~$50 Million – $80 Million** Est. Revenue | CQG Desktop from $25/mo + $0.25/contract; Pro/One from $100+/mo | **14-Day Free Demo Trial** (Simulated trading account) | Advanced futures trading, technical analysis, algorithmic order routing, and charting. |
+| **[Vesper](https://vespertool.com/)** | **~$10 Million – $25 Million** Est. Revenue / Series A | Modular plans starting approx. €450/mo (~$490/mo) for Core intelligence | **7-Day Free Trial** / Live interactive demo available | AI-driven commodity price forecasting, proprietary market benchmarks, and trade flow data. |
+| **[AgFlow](https://www.agflow.com/)** | **~$5 Million – $15 Million** Est. Revenue | Subscription plans from ~$350/mo; custom enterprise data feeds | **Free Weekly Market Signal Brief** (Demo available on request) | Physical agricultural market intelligence, OTC prices, freight rates, and import/export flows. |
+| **[AgriDigital](https://www.agridigital.io/)** | **~$5 Million – $10 Million** Est. Revenue | Growers: Free; Grain Elevators/Traders: from $99/mo up to custom tiers | **Free for Growers** / **14-Day Free Trial** on Onfarm tools | Digital grain transaction management, grain tracking, supply chain finance, and inventory. |
+| **[GeoGrain & GrainBridge](https://www.geograin.com/)** | **~$5 Million** Est. Revenue | Custom agribusiness contract pricing | **No public free trial** (Sales demo provided) | Cash grain bids database, producer grain marketing tools, and elevator management integrations. |
+| **[ClearAg](https://www.clearag.com/)** | Ag Intelligence Business Unit | API pricing starting ~$500/mo based on query volumes | **30-Day API Trial Key** for developers | Environmental, weather, and soil intelligence customized for ag trading and harvest risk. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Below are top open-source projects, quantitative engines, and tools usable for agricultural commodity trading, supply chain management, and risk modeling. Sorted by GitHub Star Count (descending). 🌟
+
+*Note: Click on any star badge to visit the stargazers page of that repository.*
+
+- **[OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)**  
+  [![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social&color=white)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers)  
+  Comprehensive open-source investment research and financial terminal. Includes dedicated modules for commodity prices, futures curves, macroeconomic data, and technical analysis. 📊
+
+- **[Microsoft Qlib](https://github.com/microsoft/qlib)**  
+  [![Stars](https://img.shields.io/github/stars/microsoft/qlib?style=social&color=white)](https://github.com/microsoft/qlib/stargazers)  
+  AI-oriented quantitative investment platform for machine learning-based price forecasting, backtesting, and market risk analysis in commodity and equity markets. 🤖
+
+- **[Zipline](https://github.com/quantopian/zipline)**  
+  [![Stars](https://img.shields.io/github/stars/quantopian/zipline?style=social&color=white)](https://github.com/quantopian/zipline/stargazers)  
+  Event-driven backtesting engine for trading strategies. Supports historical futures data and custom agricultural commodity benchmark backtests. ⏳
+
+- **[Goldman Sachs GS-Quant](https://github.com/goldmansachs/gs-quant)**  
+  [![Stars](https://img.shields.io/github/stars/goldmansachs/gs-quant?style=social&color=white)](https://github.com/goldmansachs/gs-quant/stargazers)  
+  Python toolkit for quantitative finance, risk analytics, and derivatives pricing. Useful for structuring commodity hedges and options strategies. 🐍
+
+- **[QuantLib](https://github.com/lballabio/QuantLib)**  
+  [![Stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers)  
+  The quantitative finance standard library for yield curves, commodity futures modeling, volatility surfaces, and derivatives pricing. 📐
+
+- **[Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork)**  
+  [![Stars](https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork?style=social&color=white)](https://github.com/openfoodfoundation/openfoodnetwork/stargazers)  
+  Open-source online marketplace platform connecting local agricultural producers, food hubs, and regional distributors for farm produce trade (AGPL). 🚜
+
+- **[Marketcetera](https://github.com/Marketcetera/marketcetera)**  
+  [![Stars](https://img.shields.io/github/stars/Marketcetera/marketcetera?style=social&color=white)](https://github.com/Marketcetera/marketcetera/stargazers)  
+  Open-source enterprise algorithmic trading engine providing FIX protocol connectivity, order routing, and strategy execution for commodity markets. ⚡
+
+- **[SFRM – Spot & Futures Risk Management](https://github.com/cn-vhql/SFRM)**  
+  [![Stars](https://img.shields.io/github/stars/cn-vhql/SFRM?style=social&color=white)](https://github.com/cn-vhql/SFRM/stargazers)  
+  Lightweight open-source spot and futures hedging risk management tool for physical bulk commodity arbitrage and position tracking. 📦
+
+---
+
+## 🤝 How to Contribute
+
+We welcome community contributions! Follow these steps to add new SaaS platforms or open-source projects: 💡
+
+1. **Fork** the repository. 🍴
+2. Add or update entries in `README.md` keeping formatting consistent. ✏️
+3. Include factual descriptions, official links, pricing, and GitHub links. 🔗
+4. Submit a **Pull Request** with a brief summary of additions. 🚀
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your agricultural trading research, agribusiness, or quantitative work, please consider supporting the project! ⭐
+
+- 🌟 **Star this repository** to help others discover it.
+- 🔀 **Fork it** to add your custom insights.
+- 📢 **Share it** with fellow grain traders, analysts, and developers.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+> [!WARNING]  
+> - This repository is a **community-curated research list** for informational purposes only.
+> - Agricultural commodity trading and derivatives trading carry substantial financial risk.
+> - Ensure all market data, order routing engines, and risk models are thoroughly tested before live deployment.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Agriculture-Commodity-Trading&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Agriculture-Commodity-Trading&type=date&legend=top-left)
